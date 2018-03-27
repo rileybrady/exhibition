@@ -1,0 +1,69 @@
+html {
+	cursor:url('images/crosshair.png'), auto;
+}
+
+h1 {
+	color: rgb(40,44,46);
+}
+
+body
+{
+	background-color: rgb(255,255,255);
+	color: rgb(40,44,46);
+	font-family: "verdana";
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.porschebg {
+	background: url("");
+	background-size: 100% auto;
+	margin-bottom: 100px;
+	margin-left: 30vw;
+	margin-right: 30vw;
+	background-color: #C9C8C3;
+	}
+	
+p {
+font-size: 18px;
+}
+
+a
+{	
+	margin-top:200px;
+}
+
+h2
+{
+	color: rgb(40,44,46);
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+h3
+{
+	color: rgb(40,44,46);
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+ol{
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+div {
+transition: 0.01s;
+}
+
+.color:hover {
+background: #FF456A;
+}
+
+.grow:hover {
+transform: scale(1.0);
+}
+
+.porschebg2 {
+background-color: #FFC687;
+}
